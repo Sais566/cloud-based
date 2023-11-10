@@ -1,0 +1,59 @@
+vendor/select2
+(Directory)
+	
+Cloud Attendance system - v1
+	
+autocomplete.css
+(File)
+	
+Cloud Attendance system - v1
+	
+base.css
+(File)
+	
+Cloud Attendance system - v1
+	
+changelists.css
+(File)
+	
+Cloud Attendance system - v1
+	
+dashboard.css
+(File)
+	
+Cloud Attendance system - v1
+	
+fonts.css
+(File)
+	
+Cloud Attendance system - v1
+	
+forms.css
+(File)
+	
+Cloud Attendance system - v1
+	
+login.css
+(File)
+	
+Cloud Attendance system - v1
+	
+responsive.css
+(File)
+	
+Cloud Attendance system - v1
+	
+responsive_rtl.css
+(File)
+	
+Cloud Attendance system - v1
+	
+rtl.css
+(File)
+	
+Cloud Attendance system - v1
+	
+widgets.css
+(File)
+	
+Cloud Attendance system - v1
